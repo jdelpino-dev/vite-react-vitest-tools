@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "vite",
     "dev:lan": "vite --host",
-    "dev:expose": "vite --host",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
     "preview": "vite preview",
     "test": "NODE_NO_WARNINGS=1 NODE_OPTIONS=--no-warnings vitest",
     "test:warn": "vitest"
