@@ -2,8 +2,7 @@
 
 This is a template for creating a React project with Vite, Vitest, ESLint, and Prettier.
 
-Packages and commands are hadled with npm. I don't recommend using npm with this template, because it is
-currently not working properly.
+Packages and commands are hadled with npm. I don't recommend using yarn with this template, because it is currently not working properly.
 
 The following commands are available:
 
