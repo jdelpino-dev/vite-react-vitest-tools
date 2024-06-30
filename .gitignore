@@ -35,8 +35,9 @@ dist-ssr
 .env.production.local
 *.pem
 
-# Coverage
-coverage 
+# Testing Frameworks
+__snapshots__
+coverage
 
 # MacOs
 **/.DS_Store
