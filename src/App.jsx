@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Vite + React + ESLint + Prettier + Vitest</h1>
+      <h1>Vite React Template with Tooling</h1>
       <div className="card"></div>
     </>
   );

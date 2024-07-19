@@ -4,6 +4,6 @@ import App from "./App";
 
 test("renders learn react link", () => {
   render(<App />);
-  const h1 = screen.getByText("Vite + React + ESLint + Prettier + Vitest");
+  const h1 = screen.getByText("Vite React Template with Tooling");
   expect(h1).toBeInTheDocument();
 });
